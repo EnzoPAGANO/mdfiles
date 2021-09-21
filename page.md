@@ -1,4 +1,4 @@
 # Page de garde
 ## C'est la première page du site
 
-Bienvenue
+Bienvenue tout le monde
